@@ -4,7 +4,7 @@
 
 Оригинальный файл [nim-basics](https://github.com/narimiran/nim-basics) принадлежит автору [Miran](https://github.com/narimiran) и распространяется по [MIT лицензии](https://github.com/narimiran/nim-basics/blob/master/LICENSE.txt), а я просто перевёл текст и не имею большего отношения к оригинальному тексту.
 
-Для удобства было создано [`.nim-basics`](./.nim-basics), все права принадлежат автору [Miran](https://github.com/narimiran) и распространяется по [MIT лицензии](https://github.com/narimiran/nim-basics/blob/master/LICENSE.txt).
+Для удобства было создано [`.nim-basics`](./nim-basics), все права принадлежат автору [Miran](https://github.com/narimiran) и распространяется по [MIT лицензии](https://github.com/narimiran/nim-basics/blob/master/LICENSE.txt).
 
 ---
 
